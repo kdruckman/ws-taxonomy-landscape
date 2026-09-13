@@ -273,6 +273,7 @@ window.AAIF_TAXONOMY = [
     aliases: [],
     broaderTerm: null,
     definition: 'Deliberate manipulation of an AI agent\'s behavior by an external party, causing it to act against its intended purpose, to an elevated degree with severe or criminal consequences.',
+    scopeNote: 'The definition attributes a cause: deliberate manipulation by an external party. That attribution is a claim about the world rather than a field in a record, and the entry does not state the party that establishes it. The establishing party is recorded separately from the claimed cause. A self-reported attribution is not interchangeable with one established by material the affected operator did not produce, for any downstream use such as a control, a disclosure or a risk score. Vocabulary for that separation is proposed in this workstream at #52 (self-reported), #53 (witness-scope) and #54 (three-state reconciliation).',
     relatedTerms: [],
     contrastsWith: [],
     workgroups: ['Security & Privacy']
@@ -283,6 +284,7 @@ window.AAIF_TAXONOMY = [
     aliases: [],
     broaderTerm: null,
     definition: 'Deliberate manipulation of an AI agent\'s behavior by an external party, causing it to act against its intended purpose.',
+    scopeNote: 'The definition attributes a cause: deliberate manipulation by an external party. As with Agent sabotage, that attribution is a claim about the world rather than a field in a record, and the entry does not state the party that establishes it. The establishing party is recorded separately from the claimed cause, and a self-reported attribution is not interchangeable with one established by material the affected operator did not produce. This entry sets no severity threshold: the severe or criminal case is carried by Agent sabotage. Vocabulary for the separation is proposed in this workstream at #52 (self-reported), #53 (witness-scope) and #54 (three-state reconciliation).',
     relatedTerms: [],
     contrastsWith: [],
     workgroups: ['Security & Privacy']
